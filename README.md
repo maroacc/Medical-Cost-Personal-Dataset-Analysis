@@ -5,11 +5,17 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 ### 0.1 Explanation of the dataset
 - Context e.g what is FIFA, why is studying this dataset important
 - Description of the variables e.g **min_playing_time** : minutes played by the player during that year
-- Summary of what we are going to do in this project
+### 0.2 Project Scope
+- Summary of what we are going to do in the project
+
 ## 1. Exploratory Analysis
 ### 1.1 Description of the dataset
-- Variable types e.g categorical, numerical
-- Variable decription (df.describe())
+- Variable types e.g categorical, numerical (df.info() + insights)
+- Variable description (df.describe())
+
+### 1.2 Variable representation
+- Plots of continuous and discrete variables
+- Identification of outliers
 
 ## 2. Probability
 
