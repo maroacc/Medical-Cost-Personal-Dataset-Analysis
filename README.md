@@ -21,5 +21,4 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 - Choose a couple of hypothesis to test based on the exploratory analysis
 
 ## 3. Modeling
-- 1 classification model (logistic regression)
-- 1 regression model (linear regression)
+- 1 linear regression model
