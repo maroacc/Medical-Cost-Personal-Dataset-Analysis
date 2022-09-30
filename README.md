@@ -10,19 +10,16 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 
 ## 1. Exploratory Analysis
 ### 1.1 Description of the dataset
-- Variable types e.g categorical, numerical (df.info() + insights)
+- Variable types e.g qualitative, discrete, continuous (df.info() + insights)
 - Variable description (df.describe())
 
 ### 1.2 Variable representation
-- Plots of continuous and discrete variables
+- Plots of continuous and discrete variables (histograms, bar plots, density curves, box plots,  scatter plots etc)
 - Identification of outliers
 
-## 2. Probability
+## 2. Statistical Inference & Hypothesis Testing
+- Choose a couple of hypothesis to test based on the exploratory analysis
 
-## 3. Random Variables
-
-## 4. Statistical Inference
-
-## 5. Hypothesis Testing
-
-## 6. Modeling
+## 3. Modeling
+- 1 classification model (logistic regression)
+- 1 regression model (linear regression)
