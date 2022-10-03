@@ -2,8 +2,8 @@
 
 ## 0. Introduction
 ### 0.1 Explanation of the dataset
-- Context e.g what is FIFA, why is studying this dataset important
-- Description of the variables e.g **min_playing_time** : minutes played by the player during that year
+- Context e.g what is the dataset about, why is studying this dataset important
+- Description of the variables e.g **bmi** : minutes played by the player during that year
 ### 0.2 Project Scope
 - Summary of what we are going to do in the project
 
