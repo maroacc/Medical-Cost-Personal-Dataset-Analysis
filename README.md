@@ -25,4 +25,5 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 - 1 hypothesis test for the variance
 
 ## 3. Modeling
+- Correlation Analysis of all variables
 - 1 linear regression model
