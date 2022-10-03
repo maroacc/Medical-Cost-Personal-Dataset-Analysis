@@ -19,6 +19,10 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 
 ## 2. Statistical Inference & Hypothesis Testing
 - Choose a couple of hypothesis to test based on the exploratory analysis
+- 1 confidence interval
+- 1 power
+- 1 hypothesis test for the mean
+- 1 hypothesis test for the variance
 
 ## 3. Modeling
 - 1 linear regression model
