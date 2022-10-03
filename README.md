@@ -1,5 +1,4 @@
 # Medical Cost Personal Dataset Analysis
-Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 
 ## 0. Introduction
 ### 0.1 Explanation of the dataset
@@ -26,4 +25,4 @@ Analysis of FIFA Women’s World Cup Stats from 1991 to 2019
 
 ## 3. Modeling
 - Correlation Analysis of all variables
-- 1 linear regression model
+- 1 linear regression model (Insurance Forecast)
