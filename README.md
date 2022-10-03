@@ -1,5 +1,7 @@
 # Medical Cost Personal Dataset Analysis
 
+Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 ## 0. Introduction
 ### 0.1 Explanation of the dataset
 - Context e.g what is the dataset about, why is studying this dataset important
