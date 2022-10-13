@@ -29,3 +29,4 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
 - Correlation Analysis of all variables + pairplot()
 - 1 linear regression model (Insurance Forecast)
   - error, p-values and confidence intervales for bo and b1
+  - confidence bands
