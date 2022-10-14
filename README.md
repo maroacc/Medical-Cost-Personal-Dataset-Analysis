@@ -31,3 +31,10 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
   - error, p-values and confidence intervales for bo and b1
   - confidence bands
   - prediction band
+- Diagnostic plots (to check that a regression can be performed)
+  - Residual vs fitted plot
+  - Residual QQ-plot
+  - Scale-location plot
+  - Residual vs leverage plot
+- 1 linear regression with 3 parameters (beta0, beta1, beta2)
+- 1 ANOVA
