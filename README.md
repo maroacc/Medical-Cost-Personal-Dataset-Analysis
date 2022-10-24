@@ -24,6 +24,7 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
 - 1 power
 - 1 hypothesis test for the mean
 - 1 hypothesis test for the variance
+- 1 ANOVA
 
 ## 3. Modeling
 - Correlation Analysis of all variables + pairplot()
@@ -37,4 +38,5 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
   - Scale-location plot
   - Residual vs leverage plot
 - 1 linear regression with 3 parameters (beta0, beta1, beta2)
-- 1 ANOVA
+- 1 linear regression with more than one variable ([BMI, age] --> Charges)
+
