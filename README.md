@@ -20,15 +20,15 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
 
 ## 2. Statistical Inference & Hypothesis Testing
 - Choose a couple of hypothesis to test based on the exploratory analysis
-- 1 confidence interval
-- 1 power
-- 1 hypothesis test for the mean
-- 1 hypothesis test for the variance
-- 1 ANOVA
+- confidence intervals
+- power
+- hypothesis test for the mean
+- hypothesis test for the variance
+- ANOVA
 
 ## 3. Modeling
 - Correlation Analysis of all variables + pairplot()
-- 1 linear regression model (Insurance Forecast)
+- linear regression model (Insurance Forecast)
   - error, p-values and confidence intervales for bo and b1
   - confidence bands
   - prediction band
@@ -37,6 +37,6 @@ Analysis of the Medical Cost Personal Dataset https://www.kaggle.com/datasets/mi
   - Residual QQ-plot
   - Scale-location plot
   - Residual vs leverage plot
-- 1 linear regression with 3 parameters (beta0, beta1, beta2)
-- 1 linear regression with more than one variable ([BMI, age] --> Charges)
+- linear regression with 3 parameters (beta0, beta1, beta2)
+- linear regression with more than one variable ([BMI, age] --> Charges)
 
